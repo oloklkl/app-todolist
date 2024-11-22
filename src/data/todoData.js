@@ -3,7 +3,7 @@ export const mockTodoData = [
         id: 1,
         isDone: false,
         task: '고양이 밥주기',
-        createDate: '2024.04.20',
+        createDate: '2024.04.22',
     },
     {
         id: 2,
@@ -18,5 +18,3 @@ export const mockTodoData = [
         createDate: '2024.04.22',
     },
 ];
-
-export default todoData;
